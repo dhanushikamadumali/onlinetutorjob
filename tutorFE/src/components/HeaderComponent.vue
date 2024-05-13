@@ -47,7 +47,7 @@
     </div>
     <v-col cols="1" class="web_header">
       <v-img
-        src="../assets/images/390120059_290664403849120_6086397208053973545_n.jpg"
+        src="../assets/images/totorjob.png"
         max-height="80"
         max-width="70"
       >
