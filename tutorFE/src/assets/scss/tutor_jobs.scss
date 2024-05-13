@@ -1,0 +1,22 @@
+.tutor_job_header {
+  color: #3889b7;
+  font-size: 25px;
+}
+.card_border {
+  border-color: #938c8c;
+  height: 50px;
+  @media (max-width: 768px) {
+    height: 70px;
+  }
+}
+.box-text-sizes {
+  font-size: 17px;
+}
+.para_styles {
+  font-size: 17px;
+  color: #000000;
+}
+.under_text {
+  color: #898585;
+  font-size: 17px;
+}

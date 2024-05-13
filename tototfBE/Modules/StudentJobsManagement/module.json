@@ -1,0 +1,11 @@
+{
+    "name": "StudentJobsManagement",
+    "alias": "studentjobsmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\StudentJobsManagement\\App\\Providers\\StudentJobsManagementServiceProvider"
+    ],
+    "files": []
+}

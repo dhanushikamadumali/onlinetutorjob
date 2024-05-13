@@ -1,0 +1,37 @@
+.single_teacher_header {
+ 
+  font-size: 40px;
+}
+
+.single_teacher_one_para {
+ 
+  font-size: 30px;
+}
+
+.single_teacher_second_para{
+  font-size: 24px;
+}
+
+.single_teacher_mobile_one_para{
+  font-size: 20px;
+}
+
+.mobile_teacher {
+  @media (min-width: 480px) {
+    display: none;
+  }
+  @media (max-width: 768px) {
+    display: block;
+  }
+  @media (min-width: 768px) and (max-width: 1024px) {
+    display: block;
+  }
+}
+.web_teacher {
+  @media screen and (max-width: 600px) {
+    display: none;
+  }
+  @media screen and (min-width: 480px) {
+    display: block;
+  }
+}

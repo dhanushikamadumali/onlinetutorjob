@@ -1,0 +1,28 @@
+.mobile_footer{
+    @media screen and (max-width: 600px) {
+      display: block;
+    }
+    @media screen and (min-width: 480px) {
+      display: none;
+    }
+  }
+  .web_footer{
+    @media screen and (max-width: 600px) {
+      display: none;
+    }
+    @media screen and (min-width: 480px) {
+      display: block;
+    }
+  }
+
+
+  .footer{
+    
+    background-color: #191616;
+  }
+
+   .footer_text{
+      font-size: 20px;
+      font-family: Urbanist;
+      color: FFFFFF;
+    }
